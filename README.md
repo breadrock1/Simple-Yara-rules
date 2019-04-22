@@ -6,10 +6,10 @@ It's simple yara-rules which detect some suspicious strings into binaries
 by specified class.
 
 Class:
-  BBSRAT
-  KeyLogger
-  BackDoor
-  MSOProtect
-  Trojan
-  Exploit
-  Generic
+  BBSRAT;
+  KeyLogger;
+  BackDoor;
+  MSOProtect;
+  Trojan;
+  Exploit;
+  Generic.
